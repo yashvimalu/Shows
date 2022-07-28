@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TV Shows</string>
+
+    <string name="log_in">LogIn</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Sign Up</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="search">Search</string>
+    <string name="read">Read</string>
+    <string name="toread">To Read</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="update">Update</string>
+
+    <string name="api_key">8390a76ed1d70f67e740a1ac55fb835d</string>
+
+    <string-array name="searchOpt">
+        <item>Choose an Option</item>
+        <item>By Genre</item>
+        <item>By Title</item>
+        <item>Popular</item>
+    </string-array>
+
+</resources>
